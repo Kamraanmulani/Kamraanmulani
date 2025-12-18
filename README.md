@@ -1,27 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kamraan Faiyaz Mulani</h1>
-
-###
-
 <h3 align="center">A Passionate Information Technology Student from VIT</h3>
 
-###
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Kamraanmulani/Kamraanmulani/main/GIF.gif">
 
-<p align="left">🎓 Third-year Information Technology  Student @ VIT Mumbai<br>💻 Currently working at National Informatics Centre (NIC Mumbai) as a AI ML Intern<br>💻 Worked as AI and Cloud Research Intern at @Kloudstac<br>🏆 Winner of VIT CodeAthon (2nd Place)<br>🚀 5× Hackathon Finalist – BharateGen, SIH'24, MumbaiHacks'25, Hack-to-Crack (iMEET), EY'Teachathon_6.0<br>📚 Learning Java DSA & improving my Web Development</p>
+- 🎓 Third-year Information Technology Student @ VIT Mumbai
+- 💻 Currently working at National Informatics Centre (NIC Mumbai) as a AI ML Intern
+- 💻 Worked as AI and Cloud Research Intern at @Kloudstac
+- 🏆 Winner of VIT CodeAthon (2nd Place)
+- 🚀 5× Hackathon Finalist – BharateGen, SIH'24, MumbaiHacks'25, Hack-to-Crack (iMEET), EY'Teachathon_6.0
+- 📚 Learning Java DSA & improving my Web Development
 
-###
 
-<h3 align="left">🌐 Socials:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kamraan-mulani-944166223/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/kamraanmulani/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kamraanmulani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamraan-mulani-944166223/)
 
 ###
 
@@ -42,4 +33,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kamraanmulani&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=Kamraanmulani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
