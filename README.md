@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Kamraanmulani/Kamraanmulani/main/GIF.gif">
 
-- 🎓 Third-year Information Technology Student @VIT Mumbai
+- 🎓 Final-year Information Technology Student @VIT Mumbai
 - 💻 Currently working at IIT Bombay as a AI ML Research Fello
 - 💻 Worked as AI ML Intern at National Informatics Centre (NIC Mumbai)
 - 💻 Worked as AI and Cloud Research Intern at @Kloudstac
